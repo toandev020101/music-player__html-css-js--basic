@@ -7,4 +7,4 @@
   . Phát lặp lại 1 bài
   . Phát ngẫu nhiên
   . Tua bài hát
- - Công nghệ: html, css, js
+ - Công nghệ: html, css, js, reponsive
